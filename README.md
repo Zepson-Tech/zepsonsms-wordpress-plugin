@@ -52,7 +52,9 @@ For more info on Zepson SMS API in specific, check out the following:
 * The [Zepson SMS Docs](https://https://zepsonsms.co.tz/docs.html).
 
 ### == Installation ==
-Starting with Zepson SMS Plugin consists of just two steps: installing and setting up the plugin. Zepson SMS Plugin is designed to work with your Zepson SMS specific account, so don’t forget to setup your account details in the settings page!
+Starting with Zepson SMS Plugin consists of just two steps: 
+- installing and setting up the plugin.
+-  Zepson SMS Plugin is designed to work with your Zepson SMS specific account, so don’t forget to setup your account details in the settings page!
 
 ### INSTALL Zepson SMS PLUGIN FROM WITHIN WORDPRESS
 
