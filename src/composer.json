@@ -1,0 +1,5 @@
+{
+    "require": {
+        "zepson/zepsonsms-php": "^0.0.2"
+    }
+}
