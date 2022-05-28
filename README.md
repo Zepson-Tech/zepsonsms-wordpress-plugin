@@ -49,7 +49,7 @@ For more info on Zepson SMS API in specific, check out the following:
 
 * The [Zepson SMS](https://zepsonsms.co.tz/) official homepage.
  
-* The [Zepson SMS Docs](https://https://zepsonsms.co.tz/docs.html).
+* The [Zepson SMS Docs](https://zepsonsms.co.tz/docs.html).
 
 ### == Installation ==
 Starting with Zepson SMS Plugin consists of just two steps: 
